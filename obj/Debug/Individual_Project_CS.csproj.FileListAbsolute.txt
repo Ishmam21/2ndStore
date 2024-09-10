@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\bin\Debug\Individual_Project_CS.exe.config
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\bin\Debug\Individual_Project_CS.exe
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\bin\Debug\Individual_Project_CS.pdb
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\obj\Debug\Individual_Project_CS.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\obj\Debug\Individual_Project_CS.Form1.resources
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\obj\Debug\Individual_Project_CS.Properties.Resources.resources
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\obj\Debug\Individual_Project_CS.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\obj\Debug\Individual_Project_CS.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\obj\Debug\Individual_Project_CS.exe
+C:\Users\ACER\source\repos\Individual_Project_CS\Individual_Project_CS\obj\Debug\Individual_Project_CS.pdb
