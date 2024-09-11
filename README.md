@@ -9,6 +9,31 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using W
 - **Update**: Modify existing product records in the database.
 - **Delete**: Remove product records from the database.
 
+## Architecture
+
+This project is a simple CRUD application developed using C# .NET Framework. It uses a single table named `dbo.ProductINFO` in the `IndProj` database to manage product information.
+
+### Database Schema
+
+The `ProductINFO` table schema consists of the following fields:
+
+- **ProductID** (int): The primary key that uniquely identifies each product.
+- **Brand** (nvarchar(50)): The brand name of the product.
+- **Model** (nvarchar(max)): The model description of the product.
+- **StorageGB** (nvarchar(50)): The storage capacity of the product in gigabytes.
+- **Colour** (nvarchar(50)): The color of the product.
+- **Date** (datetime): The date the product was added.
+- **UpdateDate** (datetime): The last update date of the product details.
+
+Below is the schema diagram for the `ProductINFO` table:
+
+![productinfo_schema](https://github.com/user-attachments/assets/524f9264-6b23-4ffa-aac2-aa7a5e50d77d)
+
+
+
+This diagram provides a visual representation of the table structure and its fields, illustrating how the data is organized within the database.
+
+
 ## Prerequisites
 
 - Visual Studio (with .NET Framework)
